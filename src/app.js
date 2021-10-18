@@ -2,7 +2,7 @@
 
 
 
-console.log("hello world!") //ekrana yzdırma komutu
+console.log("hello world!") //ekrana yazdırma komutu
 
 // degisken tanımlama       
 
