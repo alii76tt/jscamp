@@ -7,6 +7,7 @@ function addToCart(productName = "Default Product", quantity = 1) {
 }
 
 addToCart("Mouse", 5)
+
 //addToCart("Karpuz")
 //addToCart(10)   // parametreler sırayla doldurulur
 
